@@ -11674,3 +11674,21 @@ Stack trace:
 [20-May-2021 06:22:23 UTC] PHP Notice:  Trying to get property 'title' of non-object in E:\laragon\www\Wordpress-API\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 55
 [20-May-2021 06:22:23 UTC] PHP Notice:  Undefined variable: post in E:\laragon\www\Wordpress-API\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 56
 [20-May-2021 06:22:23 UTC] PHP Notice:  Trying to get property 'body' of non-object in E:\laragon\www\Wordpress-API\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 56
+[20-May-2021 06:50:32 UTC] PHP Notice:  Undefined variable: post in E:\laragon\www\Wordpress-API\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 54
+[20-May-2021 06:50:32 UTC] PHP Notice:  Trying to get property 'userId' of non-object in E:\laragon\www\Wordpress-API\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 54
+[20-May-2021 06:50:32 UTC] PHP Notice:  Undefined variable: post in E:\laragon\www\Wordpress-API\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 55
+[20-May-2021 06:50:32 UTC] PHP Notice:  Trying to get property 'title' of non-object in E:\laragon\www\Wordpress-API\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 55
+[20-May-2021 06:50:32 UTC] PHP Notice:  Undefined variable: post in E:\laragon\www\Wordpress-API\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 56
+[20-May-2021 06:50:32 UTC] PHP Notice:  Trying to get property 'body' of non-object in E:\laragon\www\Wordpress-API\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 56
+[20-May-2021 06:59:23 UTC] PHP Notice:  Undefined variable: post in E:\laragon\www\Wordpress-API\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 59
+[20-May-2021 06:59:23 UTC] PHP Notice:  Trying to get property 'userId' of non-object in E:\laragon\www\Wordpress-API\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 59
+[20-May-2021 06:59:23 UTC] PHP Notice:  Undefined variable: post in E:\laragon\www\Wordpress-API\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 60
+[20-May-2021 06:59:23 UTC] PHP Notice:  Trying to get property 'title' of non-object in E:\laragon\www\Wordpress-API\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 60
+[20-May-2021 06:59:23 UTC] PHP Notice:  Undefined variable: post in E:\laragon\www\Wordpress-API\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 61
+[20-May-2021 06:59:23 UTC] PHP Notice:  Trying to get property 'body' of non-object in E:\laragon\www\Wordpress-API\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 61
+[20-May-2021 07:00:01 UTC] PHP Notice:  Undefined variable: post in E:\laragon\www\Wordpress-API\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 59
+[20-May-2021 07:00:01 UTC] PHP Notice:  Trying to get property 'userId' of non-object in E:\laragon\www\Wordpress-API\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 59
+[20-May-2021 07:00:01 UTC] PHP Notice:  Undefined variable: post in E:\laragon\www\Wordpress-API\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 60
+[20-May-2021 07:00:01 UTC] PHP Notice:  Trying to get property 'title' of non-object in E:\laragon\www\Wordpress-API\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 60
+[20-May-2021 07:00:01 UTC] PHP Notice:  Undefined variable: post in E:\laragon\www\Wordpress-API\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 61
+[20-May-2021 07:00:01 UTC] PHP Notice:  Trying to get property 'body' of non-object in E:\laragon\www\Wordpress-API\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 61
