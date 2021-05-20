@@ -1,0 +1,4 @@
+2021-05-20T06:07:28+00:00 CRITICAL syntax error, unexpected '"alert success-alert"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in E:\laragon\www\Wordpress-API\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 64
+
+2021-05-20T06:11:38+00:00 CRITICAL syntax error, unexpected 'alert' (T_STRING), expecting ',' or ';' in E:\laragon\www\Wordpress-API\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 64
+

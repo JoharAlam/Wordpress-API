@@ -1,0 +1,240 @@
+2021-05-19T06:47:27+00:00 CRITICAL Uncaught Error: Call to undefined function log_info() in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php:40
+Stack trace:
+#0 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(97): wc_get_template('cart/cart-empty...')
+#2 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 E:\laragon\www\ in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 40
+
+2021-05-19T06:56:41+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php:40
+Stack trace:
+#0 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(97): wc_get_template('cart/cart-empty...')
+#2 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 E:\larago in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 40
+
+2021-05-19T06:56:52+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php:40
+Stack trace:
+#0 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(97): wc_get_template('cart/cart-empty...')
+#2 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 E:\larago in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 40
+
+2021-05-19T06:57:00+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php:40
+Stack trace:
+#0 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(97): wc_get_template('cart/cart-empty...')
+#2 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 E:\larago in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 40
+
+2021-05-19T06:57:13+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php:40
+Stack trace:
+#0 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(97): wc_get_template('cart/cart-empty...')
+#2 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 E:\larago in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 40
+
+2021-05-19T06:58:46+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php:40
+Stack trace:
+#0 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(97): wc_get_template('cart/cart-empty...')
+#2 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 E:\larago in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 40
+
+2021-05-19T08:57:29+00:00 CRITICAL syntax error, unexpected ')' in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 62
+
+2021-05-19T08:57:34+00:00 CRITICAL syntax error, unexpected ')' in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 62
+
+2021-05-19T08:58:10+00:00 CRITICAL syntax error, unexpected ')' in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 57
+
+2021-05-19T08:58:12+00:00 CRITICAL syntax error, unexpected ')' in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 57
+
+2021-05-19T08:59:14+00:00 CRITICAL syntax error, unexpected ')' in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 58
+
+2021-05-19T09:01:43+00:00 CRITICAL syntax error, unexpected ')' in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 57
+
+2021-05-19T09:01:49+00:00 CRITICAL syntax error, unexpected ')' in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 57
+
+2021-05-19T09:02:01+00:00 CRITICAL syntax error, unexpected ')' in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 57
+
+2021-05-19T09:02:10+00:00 CRITICAL syntax error, unexpected ')' in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 72
+
+2021-05-19T09:02:29+00:00 CRITICAL syntax error, unexpected ')' in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 72
+
+2021-05-19T09:02:37+00:00 CRITICAL syntax error, unexpected ')' in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 42
+
+2021-05-19T09:02:40+00:00 CRITICAL syntax error, unexpected ')' in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 42
+
+2021-05-19T09:02:45+00:00 CRITICAL syntax error, unexpected ')' in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 42
+
+2021-05-19T09:02:59+00:00 CRITICAL syntax error, unexpected ')' in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 42
+
+2021-05-19T09:40:04+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 59
+
+2021-05-19T09:40:10+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 59
+
+2021-05-19T09:48:01+00:00 CRITICAL syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 48
+
+2021-05-19T09:48:06+00:00 CRITICAL syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 48
+
+2021-05-19T10:58:13+00:00 CRITICAL Uncaught Error: Call to a member function json_encode() on array in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php:38
+Stack trace:
+#0 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(97): wc_get_template('cart/cart-empty...')
+#2 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 E:\l in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 38
+
+2021-05-19T10:58:58+00:00 CRITICAL Uncaught Error: Call to a member function json_encode() on array in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php:39
+Stack trace:
+#0 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(97): wc_get_template('cart/cart-empty...')
+#2 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 E:\l in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 39
+
+2021-05-19T11:00:49+00:00 CRITICAL Uncaught Error: Call to a member function json_encode() on array in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php:38
+Stack trace:
+#0 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(97): wc_get_template('cart/cart-empty...')
+#2 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 E:\l in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 38
+
+2021-05-19T11:08:42+00:00 CRITICAL syntax error, unexpected 'var_dump' (T_STRING), expecting ',' or ';' in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 38
+
+2021-05-19T11:18:00+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php:51
+Stack trace:
+#0 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(97): wc_get_template('cart/cart-empty...')
+#2 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 E:\larago in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 51
+
+2021-05-19T11:18:13+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php:51
+Stack trace:
+#0 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(97): wc_get_template('cart/cart-empty...')
+#2 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 E:\larago in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 51
+
+2021-05-19T11:19:13+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php:51
+Stack trace:
+#0 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(97): wc_get_template('cart/cart-empty...')
+#2 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 E:\larago in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 51
+
+2021-05-19T11:19:22+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php:51
+Stack trace:
+#0 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(97): wc_get_template('cart/cart-empty...')
+#2 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 E:\larago in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 51
+
+2021-05-19T11:21:07+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php:51
+Stack trace:
+#0 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(97): wc_get_template('cart/cart-empty...')
+#2 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 E:\larago in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 51
+
+2021-05-19T11:21:17+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php:51
+Stack trace:
+#0 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(97): wc_get_template('cart/cart-empty...')
+#2 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 E:\larago in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 51
+
+2021-05-19T11:22:15+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php:51
+Stack trace:
+#0 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(97): wc_get_template('cart/cart-empty...')
+#2 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 E:\larago in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 51
+
+2021-05-19T11:23:24+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php:53
+Stack trace:
+#0 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(97): wc_get_template('cart/cart-empty...')
+#2 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 E:\larago in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 53
+
+2021-05-19T11:41:38+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 66
+
+2021-05-19T11:44:42+00:00 CRITICAL syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 67
+
+2021-05-19T11:45:13+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php:67
+Stack trace:
+#0 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(97): wc_get_template('cart/cart-empty...')
+#2 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 E:\laragon\www\WooCommerce\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 E:\larago in E:\laragon\www\WooCommerce\wp-content\plugins\woocommerce\templates\cart\cart-empty.php on line 67
+
